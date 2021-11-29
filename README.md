@@ -7,19 +7,16 @@ AwayTeam : Away Team
 FTHG : Full Time Home Team Goals
 FTAG : Full Time Away Team Goals
 FTR : Full Time Result (H=Home Win, D=Draw, A=Away Win)
-HTHG : Half Time Home Team Goals
-HTAG : Half Time Away Team Goals
-HTR : Half Time Result (H=Home Win, D=Draw, A=Away Win)
-Referee : Match Referee
-HS : Home Team Shots
-AS : Away Team Shots
-HST : Home Team Shots on Target
-AST : Away Team Shots on Target
-HC : Home Team Corners
-AC : Away Team Corners
-HF : Home Team Fouls Committed
-AF : Away Team Fouls Committed
-HY : Home Team Yellow Cards
-AY : Away Team Yellow Cards
-HR : Home Team Red Cards
-AR : Away Team Red Cards
+HTGS : HomeTeam Goal Scored
+ATGS : AwayTeam Goal Scored
+'HTGC', 'ATGC',
+'HTP', 'ATP',
+'HM1', 'HM2', 'HM3', 'HM4', 'HM5',
+'AM1','AM2', 'AM3', 'AM4', 'AM5',
+'MW', 
+'HTFormPtsStr', 'ATFormPtsStr',
+'HTFormPts', 'ATFormPts', 
+'HTWinStreak3', 'HTWinStreak5',
+'HTLossStreak3', 'HTLossStreak5', 
+'ATWinStreak3', 'ATWinStreak5',
+'ATLossStreak3', 'ATLossStreak5'
